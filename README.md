@@ -1,4 +1,4 @@
-# Devins React Portfolio (FINSIH THIS)
+# Devins React Portfolio
 
 ## Description
 
