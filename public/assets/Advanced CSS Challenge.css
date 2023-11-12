@@ -1,0 +1,102 @@
+body   {
+   
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightskyblue;
+}
+
+h1 {
+    width: 50%;
+    margin-top: 10px;
+    font-size: xx-large;
+}
+
+header nav {
+    width: 50%;
+    margin-top: 10px;
+
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: large;
+}
+
+/* figure {
+    background-image: url(C:\Users\Eric\Desktop\MIA Work\Pixabay photos for testing\Banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+
+} */
+
+img {
+    width: 100%;
+    border: 3px solid;
+}
+
+.left-side {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left-side .title {
+    width: 10%;
+    border-right: 4px black solid;
+    text-align: right;
+    margin-top: 100px;
+    font-size: xx-large;
+
+}
+
+.left-side .section-container {
+    width: 88%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.card {
+    width: 45%;
+    position: relative;
+    margin-top: 10px;
+}
+
+.card:hover {
+    color: red;
+}
+.card h3{
+   position: absolute;
+   z-index: 1;
+   bottom: 10%;
+}
+
+.section-container ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   width: 100%;
+   margin-top: 100px;
+}
+#image1{
+   position: relative;
+   margin-top: 20px;
+}
+
+#image1 h3{
+   position: absolute;
+   z-index: 1;
+   bottom: 10%;
+}
+
+p{
+    margin-top: 100px;
+    margin-left: 10px;
+    font-size: x-large;
+}
