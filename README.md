@@ -2,7 +2,7 @@
 
 ## Description
 
-The motivation behind this project was to become familiar with Insomnia and testing routing. This project really helped dive into Insomnia using the various get, put, post and delete functions.
+The motivation behind this project was to become familiar with React and building a professional portfolio. This project really helped dive into React using the various functions that it provides to make coding easier.
 
 ## Table of Contents (Optional)
 
@@ -19,7 +19,7 @@ To install my Project, all you have to do is pull the code locally and start the
 
 ## Usage
 
-You will create these files in your javascript MVC Folder Structure, once done, you will open within the integrated terminal so that you have the most up to date file and information. Once done, we can link to Insomnia where we can test our code to make sure it is working correctly. We can go through creating multiple users, thoughts, friends and reactions.
+You will create these files in your Code Editor, once done, you will open within the integrated terminal so that you have the most up to date file and information. Once done, we can link to a webpage where we can test our code to make sure it is working correctly. We can go through the users portfolio, their work, as well as how to contact the user.
 
 ## Credits
 

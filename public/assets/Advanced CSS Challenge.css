@@ -10,8 +10,8 @@ li {
 }
 
 body {
-  font-family: 'Arial', sans-serif;
-  background-color: #f4f4f4;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: grey;
 }
 
 .container {
@@ -46,21 +46,23 @@ h1 {
 }
 
 .card {
-  width: 33%; /* Adjust as needed */
+  width: 33%; 
+  height: 400px; 
   margin: 10px;
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
-  overflow: hidden; /* Ensure images don't overflow the cards */
+  overflow: hidden; 
 }
 
 .card img {
   width: 100%;
-  height: 100%; /* Ensure images fill the entire card */
-  object-fit: cover; /* Maintain aspect ratio and cover the card */
+  height: 100%; 
+  object-fit: cover; 
   border-bottom: 1px solid #ddd;
+  height: 100%; 
 }
 
 .card h3 {

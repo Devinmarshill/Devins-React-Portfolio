@@ -4,7 +4,7 @@ export default function Portfolio() {
       <h1>Portfolio</h1>
       <section className="left-side" id="work">
 
-        <h1 className="title">Work</h1>
+        <h1 className="title"></h1>
         <section className="section-container">
           <section id="image1">
             <img src="RM Generator.png" alt="Readme Generator" id="image1" />
